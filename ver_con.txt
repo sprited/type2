@@ -3,8 +3,7 @@ Fabula incorporated
 
 New section
 
-BRANCH MASTER
-Hello new branch v.2
+edit of master model
 
 
 new line =)
